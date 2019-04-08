@@ -5,6 +5,18 @@
     <ProjectItemFile Source="App.css" Target="Content\" Type="ElementFile" />
     <ProjectItemFile Source="bootstrap-dialog.less" Target="Content\" Type="ElementFile" />
     <ProjectItemFile Source="bootstrap-dialog.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="toastr.scss" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="toastr.min.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="toastr.less" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="toastr.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.min.css.map" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.min.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.css.map" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap-theme.min.css.map" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap-theme.min.css" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap-theme.css.map" Target="Content\" Type="ElementFile" />
+    <ProjectItemFile Source="bootstrap-theme.css" Target="Content\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\swf\flashExport.swf" Target="Content\DataTables\swf\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\images\sort_desc_disabled.png" Target="Content\DataTables\images\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\images\sort_desc.png" Target="Content\DataTables\images\" Type="ElementFile" />
@@ -50,6 +62,18 @@
     <ProjectItemFile Source="DataTables\css\rowReorder.bootstrap4.css" Target="Content\DataTables\css\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\css\rowReorder.bootstrap.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\css\rowReorder.bootstrap.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.semanticui.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.semanticui.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.jqueryui.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.jqueryui.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.foundation.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.foundation.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.dataTables.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.dataTables.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.bootstrap4.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.bootstrap4.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.bootstrap.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
+    <ProjectItemFile Source="DataTables\css\rowGroup.bootstrap.css" Target="Content\DataTables\css\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\css\responsive.semanticui.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\css\responsive.semanticui.css" Target="Content\DataTables\css\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\css\responsive.jqueryui.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
@@ -153,17 +177,5 @@
     <ProjectItemFile Source="DataTables\css\autoFill.bootstrap4.css" Target="Content\DataTables\css\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\css\autoFill.bootstrap.min.css" Target="Content\DataTables\css\" Type="ElementFile" />
     <ProjectItemFile Source="DataTables\css\autoFill.bootstrap.css" Target="Content\DataTables\css\" Type="ElementFile" />
-    <ProjectItemFile Source="toastr.scss" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="toastr.min.css" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="toastr.less" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="toastr.css" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap.min.css.map" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap.min.css" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap.css.map" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap.css" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap-theme.min.css.map" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap-theme.min.css" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap-theme.css.map" Target="Content\" Type="ElementFile" />
-    <ProjectItemFile Source="bootstrap-theme.css" Target="Content\" Type="ElementFile" />
   </Files>
 </ProjectItem>

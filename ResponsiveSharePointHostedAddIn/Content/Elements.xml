@@ -4,6 +4,18 @@
     <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
     <File Path="Content\bootstrap-dialog.less" Url="Content/bootstrap-dialog.less" ReplaceContent="TRUE" />
     <File Path="Content\bootstrap-dialog.css" Url="Content/bootstrap-dialog.css" ReplaceContent="TRUE" />
+    <File Path="Content\toastr.scss" Url="Content/toastr.scss" ReplaceContent="TRUE" />
+    <File Path="Content\toastr.min.css" Url="Content/toastr.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\toastr.less" Url="Content/toastr.less" ReplaceContent="TRUE" />
+    <File Path="Content\toastr.css" Url="Content/toastr.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.min.css.map" Url="Content/bootstrap.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.min.css" Url="Content/bootstrap.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.css.map" Url="Content/bootstrap.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap.css" Url="Content/bootstrap.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-theme.min.css.map" Url="Content/bootstrap-theme.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-theme.min.css" Url="Content/bootstrap-theme.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-theme.css.map" Url="Content/bootstrap-theme.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\bootstrap-theme.css" Url="Content/bootstrap-theme.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\swf\flashExport.swf" Url="Content/DataTables/swf/flashExport.swf" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\images\sort_desc_disabled.png" Url="Content/DataTables/images/sort_desc_disabled.png" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\images\sort_desc.png" Url="Content/DataTables/images/sort_desc.png" ReplaceContent="TRUE" />
@@ -49,6 +61,18 @@
     <File Path="Content\DataTables\css\rowReorder.bootstrap4.css" Url="Content/DataTables/css/rowReorder.bootstrap4.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\css\rowReorder.bootstrap.min.css" Url="Content/DataTables/css/rowReorder.bootstrap.min.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\css\rowReorder.bootstrap.css" Url="Content/DataTables/css/rowReorder.bootstrap.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.semanticui.min.css" Url="Content/DataTables/css/rowGroup.semanticui.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.semanticui.css" Url="Content/DataTables/css/rowGroup.semanticui.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.jqueryui.min.css" Url="Content/DataTables/css/rowGroup.jqueryui.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.jqueryui.css" Url="Content/DataTables/css/rowGroup.jqueryui.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.foundation.min.css" Url="Content/DataTables/css/rowGroup.foundation.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.foundation.css" Url="Content/DataTables/css/rowGroup.foundation.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.dataTables.min.css" Url="Content/DataTables/css/rowGroup.dataTables.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.dataTables.css" Url="Content/DataTables/css/rowGroup.dataTables.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.bootstrap4.min.css" Url="Content/DataTables/css/rowGroup.bootstrap4.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.bootstrap4.css" Url="Content/DataTables/css/rowGroup.bootstrap4.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.bootstrap.min.css" Url="Content/DataTables/css/rowGroup.bootstrap.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\DataTables\css\rowGroup.bootstrap.css" Url="Content/DataTables/css/rowGroup.bootstrap.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\css\responsive.semanticui.min.css" Url="Content/DataTables/css/responsive.semanticui.min.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\css\responsive.semanticui.css" Url="Content/DataTables/css/responsive.semanticui.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\css\responsive.jqueryui.min.css" Url="Content/DataTables/css/responsive.jqueryui.min.css" ReplaceContent="TRUE" />
@@ -152,17 +176,5 @@
     <File Path="Content\DataTables\css\autoFill.bootstrap4.css" Url="Content/DataTables/css/autoFill.bootstrap4.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\css\autoFill.bootstrap.min.css" Url="Content/DataTables/css/autoFill.bootstrap.min.css" ReplaceContent="TRUE" />
     <File Path="Content\DataTables\css\autoFill.bootstrap.css" Url="Content/DataTables/css/autoFill.bootstrap.css" ReplaceContent="TRUE" />
-    <File Path="Content\toastr.scss" Url="Content/toastr.scss" ReplaceContent="TRUE" />
-    <File Path="Content\toastr.min.css" Url="Content/toastr.min.css" ReplaceContent="TRUE" />
-    <File Path="Content\toastr.less" Url="Content/toastr.less" ReplaceContent="TRUE" />
-    <File Path="Content\toastr.css" Url="Content/toastr.css" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap.min.css.map" Url="Content/bootstrap.min.css.map" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap.min.css" Url="Content/bootstrap.min.css" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap.css.map" Url="Content/bootstrap.css.map" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap.css" Url="Content/bootstrap.css" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap-theme.min.css.map" Url="Content/bootstrap-theme.min.css.map" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap-theme.min.css" Url="Content/bootstrap-theme.min.css" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap-theme.css.map" Url="Content/bootstrap-theme.css.map" ReplaceContent="TRUE" />
-    <File Path="Content\bootstrap-theme.css" Url="Content/bootstrap-theme.css" ReplaceContent="TRUE" />
   </Module>
 </Elements>

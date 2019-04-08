@@ -31,13 +31,13 @@
 .bootstrap-dialog.size-large .bootstrap-dialog-close-button {
     font-size: 30px;
 }
-.bootstrap-dialog .bootstrap-dialog-close-button:hover {
+/*.bootstrap-dialog .bootstrap-dialog-close-button:hover {
     cursor: pointer;
     filter: alpha(opacity=100);
     -moz-opacity: 1;
     -khtml-opacity: 1;
     opacity: 1;
-}
+}*/
 .bootstrap-dialog .bootstrap-dialog-message {
     font-size: 14px;
 }

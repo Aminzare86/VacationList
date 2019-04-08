@@ -2,11 +2,18 @@
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <Module Name="Scripts">
     <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
     <File Path="Scripts\bootstrap-dialog.js" Url="Scripts/bootstrap-dialog.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\toastr.min.js" Url="Scripts/toastr.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\toastr.js" Url="Scripts/toastr.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.slim.min.map" Url="Scripts/jquery-3.1.1.slim.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.slim.min.js" Url="Scripts/jquery-3.1.1.slim.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.slim.js" Url="Scripts/jquery-3.1.1.slim.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.min.map" Url="Scripts/jquery-3.1.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.min.js" Url="Scripts/jquery-3.1.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.js" Url="Scripts/jquery-3.1.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.intellisense.js" Url="Scripts/jquery-3.1.1.intellisense.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\responsive.semanticui.min.js" Url="Scripts/DataTables/responsive.semanticui.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\responsive.semanticui.js" Url="Scripts/DataTables/responsive.semanticui.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\responsive.jqueryui.min.js" Url="Scripts/DataTables/responsive.jqueryui.min.js" ReplaceContent="TRUE" />
@@ -29,6 +36,8 @@
     <File Path="Scripts\DataTables\dataTables.scroller.js" Url="Scripts/DataTables/dataTables.scroller.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\dataTables.rowReorder.min.js" Url="Scripts/DataTables/dataTables.rowReorder.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\dataTables.rowReorder.js" Url="Scripts/DataTables/dataTables.rowReorder.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\DataTables\dataTables.rowGroup.min.js" Url="Scripts/DataTables/dataTables.rowGroup.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\DataTables\dataTables.rowGroup.js" Url="Scripts/DataTables/dataTables.rowGroup.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\dataTables.responsive.min.js" Url="Scripts/DataTables/dataTables.responsive.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\dataTables.responsive.js" Url="Scripts/DataTables/dataTables.responsive.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\dataTables.material.min.js" Url="Scripts/DataTables/dataTables.material.min.js" ReplaceContent="TRUE" />
@@ -81,9 +90,14 @@
     <File Path="Scripts\DataTables\autoFill.bootstrap4.js" Url="Scripts/DataTables/autoFill.bootstrap4.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\autoFill.bootstrap.min.js" Url="Scripts/DataTables/autoFill.bootstrap.min.js" ReplaceContent="TRUE" />
     <File Path="Scripts\DataTables\autoFill.bootstrap.js" Url="Scripts/DataTables/autoFill.bootstrap.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\toastr.min.js" Url="Scripts/toastr.min.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\toastr.js" Url="Scripts/toastr.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment.min.js" Url="Scripts/moment.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment.js" Url="Scripts/moment.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment-with-locales.min.js" Url="Scripts/moment-with-locales.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\moment-with-locales.js" Url="Scripts/moment-with-locales.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery.min.js" Url="Scripts/jquery.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap-year-calendar.js" Url="Scripts/bootstrap-year-calendar.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\bootstrap-year-calendar.min.js" Url="Scripts/bootstrap-year-calendar.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\daypilot-all.min.js" Url="Scripts/daypilot-all.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.12.2.min.js" Url="Scripts/jquery-1.12.2.min.js" ReplaceContent="TRUE" />
   </Module>
 </Elements>
